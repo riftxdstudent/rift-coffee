@@ -7,11 +7,11 @@ const Market = () => {
   return (
     <div className='m'>
         <div className='m-left'>
-          kiri
+          left
         </div>
 
         <div className='m-right'>
-          kanan
+          <img src={Coffee} className='m-img'></img>
         </div>
     </div>
   )
