@@ -41,3 +41,9 @@
     --desert-sand: rgb(230, 204, 178);
     --almond: rgb(237, 224, 212);
 }
+
+@media screen and (max-width: 480px) {
+    .m{
+        flex-direction: column;
+    }
+}
