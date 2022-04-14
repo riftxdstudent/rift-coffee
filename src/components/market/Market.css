@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.m{
+    display: flex;
+    height: 100vh;
+    background-image: linear-gradient(180deg, var(--burlywood), var(--desert-sand));
+}
+
+
+
+:root {
+    --brown-sugar: rgb(156, 102, 68);
+    --coffee: rgb(127, 85, 57);
+    --cafe-au-lait: rgb(176, 137, 104);
+    --burlywood: rgb(221, 184, 146);
+    --desert-sand: rgb(230, 204, 178);
+    --almond: rgb(237, 224, 212);
+}
