@@ -6,7 +6,13 @@ import 'animate.css'
 const Market = () => {
   return (
     <div className='m'>
-        
+        <div className='m-left'>
+          kiri
+        </div>
+
+        <div className='m-right'>
+          kanan
+        </div>
     </div>
   )
 }

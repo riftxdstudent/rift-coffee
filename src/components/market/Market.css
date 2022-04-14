@@ -10,6 +10,11 @@
     background-image: linear-gradient(180deg, var(--burlywood), var(--desert-sand));
 }
 
+.m-left{
+    display: flex;
+    flex: 1;
+}
+
 
 
 :root {
