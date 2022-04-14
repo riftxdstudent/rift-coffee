@@ -100,7 +100,7 @@
     }
 
     .a-desc{
-        margin-left: 70px;
+        display: none;
     }
 
     .a-list{
