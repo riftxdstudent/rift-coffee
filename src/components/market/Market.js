@@ -7,7 +7,11 @@ const Market = () => {
   return (
     <div className='m'>
         <div className='m-left'>
-          left
+          <div className='m-left-wrapper'>
+            <h2 className='m-market'>Our Branch</h2>
+            <h1 className='m-title'>We're on Your Hood, Come Here!</h1>
+            <p className='m-desc'>We're here in your city! Don't miss the moment to enjoy a cup of coffee!</p>
+          </div>
         </div>
 
         <div className='m-right'>
