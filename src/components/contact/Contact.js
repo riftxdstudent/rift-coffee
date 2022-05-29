@@ -1,12 +1,14 @@
 import React from 'react'
 import './Contact.css'
-import Map from './Map/ContactMap'
+import { Form, Row, Col, Button } from 'react-bootstrap'
 
 const Contact = () => {
   return (
     <div className='c'>
         <div className='c-left'>
-          <ContactMap></ContactMap>
+          <div className='c-form'>
+
+          </div>
         </div>
         <div className='c-right'>kanan</div>
     </div>
