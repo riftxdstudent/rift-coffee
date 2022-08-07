@@ -7,6 +7,7 @@ import 'animate.css';
 const Intro = () => {
   return (
     <div className='i'>
+
         <div className='i-logo-wrapper'>
             <img src={Logo} alt='' className='i-logo'></img>
         </div>

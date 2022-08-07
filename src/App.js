@@ -1,3 +1,4 @@
+import Navbar from './components/navbar/navbar';
 import About from './components/about/About';
 import Intro from './components/intro/Intro';
 import 'animate.css';
@@ -8,9 +9,10 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-     <Intro></Intro>
-     <About></About>
-     <Market></Market>
+      <Navbar></Navbar>
+      <Intro></Intro>
+      <About></About>
+      <Market></Market>
     </div>
   );
 }

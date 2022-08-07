@@ -76,6 +76,8 @@
     display: block;
 }
 
+
+
 @keyframes typing {
     0% { width:0 }
     25% { width: 50% }
